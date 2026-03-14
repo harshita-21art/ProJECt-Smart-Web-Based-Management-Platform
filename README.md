@@ -40,7 +40,7 @@ Follow these steps to run the project locally.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ashwikarai22-droid/ProJECt.git
+   git clone https://github.com/harshita-21art/ProJECt.git
    ```
 
 2. **Move the project to the XAMPP directory**
